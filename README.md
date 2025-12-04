@@ -243,10 +243,10 @@ chart.php
 ## 👨‍💻 Developed By
 
 **D Arun Kumar**
-**Email: kumardarun11@gmail.com**
-**Linkedin: https://linkedin.com/in/kumardarun11**
 
----
+Email: kumardarun11@gmail.com
+
+Linkedin: https://linkedin.com/in/kumardarun11
 
 ---
 
